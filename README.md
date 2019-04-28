@@ -7,6 +7,10 @@
 ### 게임 URL
 https://bottarijangsu.itch.io/worn
 
+### 게임 스크린샷
+![0](https://user-images.githubusercontent.com/8329533/56861789-73076a00-69df-11e9-9fdf-3e9138c6d561.png)
+![1](https://user-images.githubusercontent.com/8329533/56861801-84e90d00-69df-11e9-8a97-15a429600915.png)
+
 ### 개발 환경
 - Eclipse IDE(C++) 2019.03
 - MinGW
